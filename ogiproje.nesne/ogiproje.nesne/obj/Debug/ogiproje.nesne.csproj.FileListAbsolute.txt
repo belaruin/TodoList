@@ -1,0 +1,13 @@
+C:\Users\alimu\Desktop\ogiproje.nesne\ogiproje.nesne\bin\Debug\ogiproje.nesne.exe.config
+C:\Users\alimu\Desktop\ogiproje.nesne\ogiproje.nesne\bin\Debug\ogiproje.nesne.exe
+C:\Users\alimu\Desktop\ogiproje.nesne\ogiproje.nesne\bin\Debug\ogiproje.nesne.pdb
+C:\Users\alimu\Desktop\ogiproje.nesne\ogiproje.nesne\obj\Debug\ogiproje.nesne.csproj.AssemblyReference.cache
+C:\Users\alimu\Desktop\ogiproje.nesne\ogiproje.nesne\obj\Debug\ogiproje.nesne.Form1.resources
+C:\Users\alimu\Desktop\ogiproje.nesne\ogiproje.nesne\obj\Debug\ogiproje.nesne.Properties.Resources.resources
+C:\Users\alimu\Desktop\ogiproje.nesne\ogiproje.nesne\obj\Debug\ogiproje.nesne.csproj.GenerateResource.cache
+C:\Users\alimu\Desktop\ogiproje.nesne\ogiproje.nesne\obj\Debug\ogiproje.nesne.csproj.CoreCompileInputs.cache
+C:\Users\alimu\Desktop\ogiproje.nesne\ogiproje.nesne\obj\Debug\ogiproje.nesne.exe
+C:\Users\alimu\Desktop\ogiproje.nesne\ogiproje.nesne\obj\Debug\ogiproje.nesne.pdb
+C:\Users\alimu\Desktop\ogiproje.nesne\ogiproje.nesne\obj\Debug\ogiproje.nesne.kullanicigiris.resources
+C:\Users\alimu\Desktop\ogiproje.nesne\ogiproje.nesne\obj\Debug\ogiproje.nesne.yenikayit.resources
+C:\Users\alimu\Desktop\ogiproje.nesne\ogiproje.nesne\obj\Debug\ogiproje.nesne.kayitliste.resources
